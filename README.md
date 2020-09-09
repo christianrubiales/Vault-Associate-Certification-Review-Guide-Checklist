@@ -46,3 +46,7 @@
 ### 3g Create tokens based on need
 - [ ] [Tokens](https://learn.hashicorp.com/vault/identity-access-management/tokens)  
 
+## 4 Manage Vault leases
+- [ ] 4a Explain the purpose of a lease ID
+- [ ] 4b Renew leases
+- [ ] 4c Revoke leases
